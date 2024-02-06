@@ -10,12 +10,12 @@
 
 1. [Behaviorial](#behavioral)
 2. [Technical](#technical-questions)
-    - [HTML](#html)
-    - [CSS](#css)
-    - [Javascript](#javascript)
-    - [Javascript General](#javascript-general)
-    - [Node](#node)
-    - [CS Theory](#cs-theory)
+   - [HTML](#html)
+   - [CSS](#css)
+   - [Javascript](#javascript)
+   - [Javascript General](#javascript-general)
+   - [Node](#node)
+   - [CS Theory](#cs-theory)
 3. [Questions to ask your interviewer](#questions-to-ask-your-interviewer)
 4. [Whiteboard](#whiteboard)
 5. [Resources](#resources)
@@ -390,7 +390,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] Can you describe the main difference between a `.forEach()` loop and a `.map()` loop and why you would pick one versus the other?
-  - **Explanation:**
+  - **Explanation:** The core difference between a forEach loop and map loop is that a map returns a new array and forEach does not.
   - **Use:**
   - **Example:**
   - **Source:**
