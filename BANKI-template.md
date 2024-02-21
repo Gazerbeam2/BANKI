@@ -481,6 +481,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Source:**
 - [ ] What is the difference between `==` and `===`?
   - **Explanation:**
+    == is loosely typed so it'll convert different data types to get a match while === is strictly typed so the value and type have to be equal.
   - **Use:**
   - **Example:**
   - **Source:**
