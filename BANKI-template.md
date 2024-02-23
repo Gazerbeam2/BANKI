@@ -845,7 +845,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] What is a Queue?
-  - **Explanation:**
+  - **Explanation:** A Queue is a data structure in which the oldest(First IN) elements of a array are removed first (First out) FIFO.
   - **Use:**
   - **Example:**
   - **Source:**
