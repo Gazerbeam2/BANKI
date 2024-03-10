@@ -496,7 +496,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] Why is it called a ternary expression, what does the word "ternary" indicate?
-  - **Explanation:**
+  - **Explanation:**: Ternary means composed of three items: Ternary operators need three conditions minimum: A conditional, a value if the condition is true and a value if the condition is false.
   - **Use:**
   - **Example:**
   - **Source:**
@@ -591,7 +591,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] What is the definition of a higher-order function?
-  - **Explanation:**
+  - **Explanation:** A higher-order function is a function that takes in another function as a argument.
   - **Use:**
   - **Example:**
   - **Source:**
@@ -629,7 +629,7 @@ Most of the technical questions should have a three sentence response in the EUE
 ### Javascript General
 
 - [ ] Can you name two programming paradigms important for JavaScript app developers?
-  - **Explanation:**
+  - **Explanation:** Two programming paradigms important for Javascript app are functional programming and Object-Oriented Programming.
   - **Use:**
   - **Example:**
   - **Source:**
