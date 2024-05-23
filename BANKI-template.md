@@ -662,7 +662,7 @@ Most of the technical questions should have a three sentence response in the EUE
 ### Node
 
 - [ ] What is Node.js? Where can you use it?
-  - **Explanation:**
+  - **Explanation:** Node.js is a javascript runtime engine that allows us to run javascript code onto our computer. 
   - **Use:**
   - **Example:**
   - **Source:**
@@ -777,7 +777,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] What is package.json? What is it used for?
-  - **Explanation:**
+  - **Explanation:** package.json is how keep track of all our installed dependecies and npm packages/middleware.
   - **Use:**
   - **Example:**
   - **Source:**
@@ -800,7 +800,7 @@ Most of the technical questions should have a three sentence response in the EUE
 ### CS Theory 
 
 - [ ] What is recursion and give an example using javascript?
-  - **Explanation:**
+  - **Explanation:** Recursion is a program calling itself 
   - **Use:**
   - **Example:**
   - **Source:**
